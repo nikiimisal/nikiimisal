@@ -43,7 +43,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 ![nikii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejall24&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight)
 
 ---
 
