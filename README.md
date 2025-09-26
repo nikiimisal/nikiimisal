@@ -29,15 +29,13 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 
 
-| Domain                       | Description                                                   | Skills/Tools                                   | Projects                                                                                                                                             |
-|------------------------------|---------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Cloud**                    | Using AWS services to build, deploy, scale & secure systems   | AWS                                            | - [Configure a Static Website With S3](https://github.com/iamtruptimane/configure-static-website)<br>- [Securing VPC](https://github.com/iamtruptimane/securing-vpc)<br>- [scale the app using AWS resources]() |
-
-| **Monitoring**               | Observability & metrics monitoring                            | CloudWatch                                     | - []()                                                                                                                                               |
-| **Scripting**                | Automating tasks via scripts                                  | Bash/Shell, Python                             | - [shell scripting]()<br>- []()                                                                       |
-| **SCM**                       | Version control & code repository management                  | GitHub, GitLab, CodeCommit                     | - [GitLab Profile](https://github.com/nikiimisal)<br>- [AWS CodeCommit]()                                                                           |
-
-| **Databases**                | Data storage and retrieval                                     | DynamoDB, RDS                                  | - [AWS DynamoDB](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20DynamoDB.md)<br>- [AWS RDS Multi-AZ](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20RDS%20Multi-AZ.md) |
+| Domain                       | Description                                                   | Skills / Tools                    | Projects                                                                                                                                                        |
+|------------------------------|---------------------------------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud**                    | Using AWS services to build, deploy, scale & secure systems   | AWS                                | - [Configure a Static Website With S3](https://github.com/iamtruptimane/configure-static-website) <br> - [Securing VPC](https://github.com/iamtruptimane/securing-vpc) <br> - Scale the app using AWS resources (link pending) |
+| **Monitoring**               | Observability & metrics monitoring                            | CloudWatch                          | - (project link to be added)                                                                                                                                       |
+| **Scripting**                | Automating tasks via scripts                                  | Bash / Shell, Python                | - [Shell scripting](https://github.com/iamtruptimane/shell-scripting) <br> - (project link to be added)                                                          |
+| **SCM**                       | Version control & code repository management                  | GitHub, GitLab, CodeCommit          | - [GitLab Profile](https://github.com/nikiimisal) <br> - (AWS CodeCommit link to be added)                                                                       |
+| **Databases**                | Data storage and retrieval                                     | DynamoDB, RDS                       | - [AWS DynamoDB](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20DynamoDB.md) <br> - [AWS RDS Multi‑AZ](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20RDS%20Multi-AZ.md) |
 
 
 
