@@ -39,6 +39,16 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 |                              |
 
 
+| Domain                       | Description                                                   | Skills/Tools                                   | Projects                                                                                                                                             |
+|------------------------------|---------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud**                    | Using AWS services to build, deploy, scale & secure systems   | AWS                                            | - [Configure a Static Website With S3](https://github.com/iamtruptimane/configure-static-website)<br>- [Securing VPC](https://github.com/iamtruptimane/securing-vpc)<br>- [scale the app using AWS resources]() |
+| **Programming Languages**    | Writing code in various languages & solving algorithmic problems | JavaScript, Python, C++                        | - [Solved leetcode problem on string](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/string)<br>- [Solved Leetcode Problems on array](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/array)<br>- [Python 100 days challenge](https://github.com/iamtruptimane/python-programs/tree/main/leetcode) |
+| **Monitoring**               | Observability & metrics monitoring                            | CloudWatch                                     | - []()                                                                                                                                               |
+| **Scripting**                | Automating tasks via scripts                                  | Bash/Shell, Python                             | - [shell scripting](https://github.com/iamtruptimane/shell-scripting)<br>- []()                                                                       |
+| **SCM**                       | Version control & code repository management                  | GitHub, GitLab, CodeCommit                     | - [GitLab Profile](https://github.com/nikiimisal)<br>- [AWS CodeCommit]()                                                                           |
+| **Configuration Management** | Managing infrastructure as code & configurations               | Ansible                                        | Starting on _January 2024_                                                                                                                            |
+| **Databases**                | Data storage and retrieval                                     | DynamoDB, RDS                                  | - [AWS DynamoDB](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20DynamoDB.md)<br>- [AWS RDS Multi-AZ](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20RDS%20Multi-AZ.md) |
+
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
