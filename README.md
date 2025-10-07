@@ -9,7 +9,7 @@
 I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creating automation tools using **Python**.
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikiimisal&label=Profile%20views&color=0e75b6&style=flat" alt="nikiimisal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtruptimane&label=Profile%20views&color=0e75b6&style=flat" alt="iamtruptimane" /> </p>
 
 ## 🛠️ Tech Stack & Tools
 
