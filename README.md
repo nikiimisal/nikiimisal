@@ -57,3 +57,58 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptimane9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truptimane" height="30" width="40" /></a>
 </p>
+
+
+
+
+###  GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikiimisal&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=radical&hide_border=true" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=radical&hide_border=true" height="160px" />
+</p>
+
+---
+
+###  Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikiimisal&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75407&line=F79407&point=FFFFFF" />
+</p>
+
+---
+
+##  `Connect With Me`
+
+<div align="center">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nikita-thosare-b9b8072a5" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://medium.com/@thosarenikita" target="_blank">
+      <img src="https://img.shields.io/badge/MEDIUM-Read-000000?style=for-the-badge&labelColor=3b3b3b&logo=medium&logoColor=white" alt="Medium" />
+    </a>&nbsp;
+    <a href="mailto:thosarenikita@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-thosarenikita@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+
+---
+
+<p align="center">
+   <strong>"Keep learning, keep building — the cloud has no limits!"</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikiimisal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <a href="https://github.com/nikiimisal?tab=followers">
+    <img src="https://img.shields.io/github/followers/nikitathosare?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
+
