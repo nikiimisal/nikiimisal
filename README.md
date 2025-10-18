@@ -41,10 +41,14 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight" height="160px" />
+</p>
 
-![nikii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight" height="160px" />
+</p>
 
 ---
 
@@ -59,46 +63,43 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truptimane" height="30" width="40" /></a>
 </p>
 
-
-
-
-###  GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight" height="160px" />
-</p>
-
----
-
-###  Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikiimisal&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75407&line=F79407&point=FFFFFF" />
-</p>
-
 ---
 
 ##  `Connect With Me`
 
 <div align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/nikita-thosare-b9b8072a5" target="_blank">
+    <a href="https://www.linkedin.com/in/nikhilmisal/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>&nbsp;
-    <a href="https://medium.com/@thosarenikita" target="_blank">
+    <a href="https://medium.com/@nik0misal" target="_blank">
       <img src="https://img.shields.io/badge/MEDIUM-Read-000000?style=for-the-badge&labelColor=3b3b3b&logo=medium&logoColor=white" alt="Medium" />
     </a>&nbsp;
-    <a href="mailto:thosarenikita@gmail.com">
+    <a href="mailto:nik0misal@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-thosarenikita@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhilmisal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/nikiimisal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
