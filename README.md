@@ -82,24 +82,35 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 </div>
 
 
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhilmisal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/nikiimisal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+  <p align="center">
+    <!-- 🌐 Social Platforms -->
+    <a href="https://www.linkedin.com/in/nikhilmisal/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://github.com/nikiimisal" target="_blank">
+     <img src="https://img.shields.io/badge/GITHUB-Follow-171515?style=for-the-badge&labelColor=3b3b3b&logo=github&logoColor=white" alt="GitHub" />
+    </a>&nbsp;
+    <a href="https://www.leetcode.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LEETCODE-Practice-FFA116?style=for-the-badge&labelColor=3b3b3b&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>&nbsp;
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-Visit-000000?style=for-the-badge&labelColor=3b3b3b&logo=react&logoColor=white" alt="Portfolio" />
+    </a>&nbsp;    
+    <a href="https://medium.com/@nik0misal" target="_blank">
+      <img src="https://img.shields.io/badge/MEDIUM-Read-000000?style=for-the-badge&labelColor=3b3b3b&logo=medium&logoColor=white" alt="Medium" />
+    </a>&nbsp;    
+    <a href="mailto:nik0misal@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-Contact Me-D44638?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" />
+    </a>&nbsp;  
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&labelColor=3b3b3b&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+
+</div>
+
 
 ---
 
