@@ -41,6 +41,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 ## 📈 GitHub Stats
 
+
 ![nikii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight)
@@ -64,12 +65,12 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 ###  GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikiimisal&theme=radical&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikiimisal&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=nikiimisal&theme=tokyonight" height="160px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiimisal&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
