@@ -80,7 +80,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <a href="mailto:nik0misal@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=ff512f" alt="Email" />
     </a>&nbsp;
-    <a href="https://twitter.com/" target="_blank">
+    <a href="https://x.com/nikiimisal" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=0f9b0f" alt="Twitter" />
     </a>
   </p>
