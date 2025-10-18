@@ -54,20 +54,6 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmisal/)<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikiimisal)
-
-
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptimane9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truptimane" height="30" width="40" /></a>
-</p>
-
----
-
-##  `Connect With Me`
-
-
 <div align="center">
 
   <!-- 🌐 FIRST ROW -->
@@ -101,8 +87,6 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 </div>
 
-
-
 ---
 
 <p align="center">
@@ -112,7 +96,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikiimisal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
   <a href="https://github.com/nikiimisal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nikitathosare?label=Follow&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/nikiimisal?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
