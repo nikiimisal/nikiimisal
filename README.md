@@ -29,7 +29,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 
 
-<p style="font-size:16px; line-height:1.5;">
+
 >💡 Only project highlights are shown below.  
 >For more notes, examples, screenshots, and detailed setups, visit the <b>Index Section</b> — <a href="https://github.com/nikiimisal/index_section">Click here</a>.
 </p>
