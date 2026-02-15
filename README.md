@@ -28,7 +28,12 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 ## 📂 Featured Projects
 
 
-<p>See more notes, projects, examples, and screenshots in the <b>Index Section</b>. Only project highlights are listed here. <a href="https://github.com/nikiimisal/index_section">Click here</a> to explore all details.</p>
+
+<p style="font-size:16px; line-height:1.5;">
+>💡 Only project highlights are shown below.  
+>For more notes, examples, screenshots, and detailed setups, visit the <b>Index Section</b> — <a href="https://github.com/nikiimisal/index_section">Click here</a>.
+</p>
+
 <table>
   <tr>
     <th width="10%">Domain</th>
