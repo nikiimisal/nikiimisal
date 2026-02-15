@@ -28,7 +28,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 ## 📂 Featured Projects
 
 
-
+<p>See more notes, projects, examples, and screenshots in the <b>Index Section</b>. Only project highlights are listed here. <a href="https://github.com/nikiimisal/index_section">Click here</a> to explore all details.</p>
 <table>
   <tr>
     <th width="10%">Domain</th>
@@ -43,7 +43,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <td>AWS</td>
     <td>
       - <a href="https://github.com/nikiimisal/3-tier_Architecture_Related/blob/main/VPC.md">Securing VPC</a> <br>
-      - <a href="https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-/blob/main/Movie%20Ticket%20Booking%20System%20%28AWS%203-Tier%20Architecture%29.md">Movie Ticket Booking System (AWS 3-Tier)</a> <br>
+      - <a href="https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-">Movie Ticket Booking System (AWS 3-Tier)</a> <br>
       - <a href="https://github.com/nikiimisal/Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture/blob/main/README.md">Mark Your Attendance (AWS SDK 3-Tier)</a> <br>
       - <a href="https://github.com/nikiimisal/project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda">Serverless File Uploader (Lambda)</a>
     </td>
@@ -54,11 +54,9 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <td>Using DevOps tools to build practical understanding of how each tool works, implementing complete workflows from scratch</td>
     <td>Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana</td>
     <td>
-      - CI/CD Pipeline Setup <br>
-      - Docker Containerization <br>
-      - Kubernetes Deployment <br>
-      - Terraform (IaC) <br>
-      - Monitoring Setup
+    - <a href="">All Tools included in One project</a> <br>
+    - <a href="https://github.com/nikiimisal/index_section">See separate tool info, setups & examples Go To index_section</a>
+    - See separate tool info, setups & examples → [Index_Section]()
     </td>
   </tr>
 
