@@ -29,25 +29,51 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
 
 
 
-| Domain                       | Description                                                   | Skills / Tools                    | Projects                                                                                                                                                        |
-|------------------------------|---------------------------------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Cloud**                    | Using AWS services to build, deploy, scale & secure systems   | AWS                                | - [Securing VPC](https://github.com/nikiimisal/3-tier_Architecture_Related/blob/main/VPC.md) <br> - [Project-Movie Ticket Booking System (AWS 3-Tier Architecture)](https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-/blob/main/Movie%20Ticket%20Booking%20System%20(AWS%203-Tier%20Architecture).md) <br> - [Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture](https://github.com/nikiimisal/Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture/blob/main/README.md) <br> - [Project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda](https://github.com/nikiimisal/project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda) <br>|
-| **Monitoring**               | Observability & metrics monitoring                            | CloudWatch                          | -                                                                                                                                        |
-| **Scripting**                | Automating tasks via scripts                                  | Bash / Shell, Python                | - [Shell scripting]() <br> -                                                           |
-| **SCM**                       | Version control & code repository management                  | GitHub, GitLab, CodeCommit          | - [Git & Github Setup](https://github.com/nikiimisal/Git-Github/tree/main) <br>- [GitLab Profile](https://gitlab.com/nikiimisal) <br> - [ AWS CodeCommit]()                   |
-| **Databases**                | Data storage and retrieval                                     | DynamoDB, RDS                       | - [AWS DynamoDB](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20DynamoDB.md) <br> - [AWS RDS Multi‑AZ](https://github.com/nikiimisal/DynamoDB-and-RDS/blob/main/AWS%20RDS%20Multi-AZ.md) |
+<table>
+  <tr>
+    <th width="10%">Domain</th>
+    <th width="20%">Description</th>
+    <th width="15%">Skills / Tools</th>
+    <th width="55%">Projects</th>
+  </tr>
 
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>Build, deploy, scale & secure systems on AWS</td>
+    <td>AWS</td>
+    <td>
+      - <a href="https://github.com/nikiimisal/3-tier_Architecture_Related/blob/main/VPC.md">Securing VPC</a> <br>
+      - <a href="https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-/blob/main/Movie%20Ticket%20Booking%20System%20%28AWS%203-Tier%20Architecture%29.md">Movie Ticket Booking System (AWS 3-Tier)</a> <br>
+      - <a href="https://github.com/nikiimisal/Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture/blob/main/README.md">Mark Your Attendance (AWS SDK 3-Tier)</a> <br>
+      - <a href="https://github.com/nikiimisal/project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda">Serverless File Uploader (Lambda)</a>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Using DevOps tools to build practical understanding of how each tool works, implementing complete workflows from scratch</td>
+    <td>Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana</td>
+    <td>
+      - CI/CD Pipeline Setup <br>
+      - Docker Containerization <br>
+      - Kubernetes Deployment <br>
+      - Terraform (IaC) <br>
+      - Monitoring Setup
+    </td>
+  </tr>
 
-
-
-
-
-| **Domain** | **Description**                                              | **Skills / Tools**                                                   | **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ---------- | ------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud**  | Build, deploy, scale & secure systems on AWS                 | AWS                                                                  | - [Securing VPC](https://github.com/nikiimisal/3-tier_Architecture_Related/blob/main/VPC.md) <br> - [Movie Ticket Booking System (AWS 3-Tier)](https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-/blob/main/Movie%20Ticket%20Booking%20System%20%28AWS%203-Tier%20Architecture%29.md) <br> - [Mark Your Attendance (AWS SDK 3-Tier)](https://github.com/nikiimisal/Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture/blob/main/README.md) <br> - [Serverless File Uploader (Lambda)](https://github.com/nikiimisal/project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda) |
-| **DevOps** | Using DevOps tools to build practical understanding <br>of how each tool works, implementing complete<br> workflows from scratch | Docker, Kubernetes,<br> Jenkins, Terraform,<br> Ansible, Prometheus, Grafana | - CI/CD Pipeline Setup <br> - Docker Containerization <br> - Kubernetes Deployment <br> - Terraform (IaC) <br> - Monitoring Setup                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **SCM**    | Version control & repository management                      | GitHub, GitLab, CodeCommit                                           | - [Git & GitHub Setup](https://github.com/nikiimisal/Git-Github/tree/main) <br> - [GitLab Profile](https://gitlab.com/nikiimisal) <br> - AWS CodeCommit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+  <tr>
+    <td><b>SCM</b></td>
+    <td>Version control & repository management</td>
+    <td>GitHub, GitLab, CodeCommit</td>
+    <td>
+      - <a href="https://github.com/nikiimisal/Git-Github/tree/main">Git & GitHub Setup</a> <br>
+      - <a href="https://gitlab.com/nikiimisal">GitLab Profile</a> <br>
+      - AWS CodeCommit
+    </td>
+  </tr>
+</table>
+                                                                                                                                                                                                                                                                                                                                                                                                                             |
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
