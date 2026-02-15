@@ -61,7 +61,6 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <td>
     - <a href="">All Tools included in One project</a> <br>
     - <a href="https://github.com/nikiimisal/index_section">See separate tool info, setups & examples Go To index_section</a>
-    
     </td>
   </tr>
 
@@ -71,8 +70,7 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <td>GitHub, GitLab, CodeCommit</td>
     <td>
       - <a href="https://github.com/nikiimisal/Git-Github/tree/main">Git & GitHub Setup</a> <br>
-      - <a href="https://gitlab.com/nikiimisal">GitLab Profile</a> <br>
-      
+      - <a href="https://gitlab.com/nikiimisal">GitLab Profile</a> <br> 
     </td>
   </tr>
 </table>
