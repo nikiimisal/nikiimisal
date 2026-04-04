@@ -59,7 +59,6 @@ I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**, and love creat
     <td>Using DevOps tools to build practical understanding of how each tool works, implementing complete workflows from scratch</td>
     <td>Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana</td>
     <td>
-    - <a href="">All Tools included in One project</a> <br>
     - <a href="https://github.com/nikiimisal/index_section">See separate tool info, setups & examples Go To index_section</a>
     </td>
   </tr>
